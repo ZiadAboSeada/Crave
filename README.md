@@ -1,4 +1,5 @@
-# crave_food_delivery_MVC
+# crave_food_delivery
+
 Asp.net api with react 
 /Food delivery website
 /contributed with 2 people to develop the project
